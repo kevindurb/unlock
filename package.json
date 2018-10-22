@@ -1,0 +1,8 @@
+{
+  "name": "unlock",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "git@github.com:kevindurb/unlock.git",
+  "author": "Kevin Durbin <kevindurb@gmail.com>"
+}
